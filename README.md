@@ -1,5 +1,9 @@
 # Proyecto PSP — Interfaz de utilidades (Tkinter)
 
+Enlace al video explicativo de la interfaz
+------------------------------------------
+https://we.tl/t-IvY8pi641e
+
 Descripción
 -----------
 Aplicación de escritorio en Python que agrupa varias utilidades en una sola interfaz:
