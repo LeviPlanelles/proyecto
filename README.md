@@ -2,7 +2,8 @@
 
 Enlace al video explicativo de la interfaz
 ------------------------------------------
-https://we.tl/t-IvY8pi641e
+Descarga: https://we.tl/t-IvY8pi641e Expira el 11 de diciembre
+YouTube: https://youtu.be/z6CQhWgzbgs
 
 Descripción
 -----------
