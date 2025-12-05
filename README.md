@@ -5,6 +5,8 @@ Enlace al video explicativo de la interfaz
 Descarga: https://we.tl/t-IvY8pi641e Expira el 11 de diciembre
 YouTube: https://youtu.be/z6CQhWgzbgs
 
+![alt text](image.png)
+
 Descripción
 -----------
 Aplicación de escritorio en Python que agrupa varias utilidades en una sola interfaz:
