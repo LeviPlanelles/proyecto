@@ -66,6 +66,12 @@ Características principales
 - Juego de carreras (canvas): [`proyecto.open_game_race`](proyecto.py)
 - Abrir aplicaciones macOS con `open`: [`proyecto.launch_app`](proyecto.py)
 - Monitor de red en la barra de estado: [`proyecto.network_monitor`](proyecto.py)
+- **Chat TCP (Multiusuario):**
+  - **Acceso:** Desde pestaña "Enlaces" -> Botón "Chat TCP".
+  - **Servidor:** Al lanzarlo, se integra en el **panel derecho de la ventana principal**. Desde ahí se visualizan logs de conexión y mensajería en tiempo real, y permite enviar mensajes como Administrador a todos los conectados. [Código servidor](chat_server.py).
+  - **Cliente:**
+    - *Desde la App:* Abre una terminal externa independiente para chatear.
+    - *Desde otro PC:* Solo requiere el archivo `chat_client.py` (sin dependencias extra). Ejecutar: `python chat_client.py --host IP_SERVIDOR --name TuNombre`. [Código cliente](chat_client.py).
 
 Configuración y datos sensibles
 -------------------------------
